@@ -5,3 +5,32 @@
   .navbar-brand {
     color: rgb(255, 255, 255)!important;
   } 
+
+  .img-fluid{
+    width: 100%;
+  }
+  .service-1{
+    background-color: #a5d649;
+    
+  }
+  .service-2{
+    background-color: #1ba29b;
+    
+  }
+  .service-3{
+    background-color: #818181;
+  }
+
+  .service{
+    color: white;
+  }
+
+  .center-text{
+    text-align: center;
+  }
+
+  .copyright-container {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+  }
