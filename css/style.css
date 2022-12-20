@@ -68,6 +68,16 @@
   border-width: 0;
 }
 
+.touch-header{
+  font-weight: normal;
+  font-size: xx-large;
+  margin: 0%;
+}
+.touch-body{
+
+  font-weight: bold;
+}
+
 /* Copyright section */
 .copyright-container {
   text-align: center;
