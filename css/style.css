@@ -1,36 +1,81 @@
-.navbar {
-    background-color: black;
-  }
-  
-  .navbar-brand {
-    color: rgb(255, 255, 255)!important;
-  } 
 
-  .img-fluid{
-    width: 100%;
-  }
-  .service-1{
-    background-color: #a5d649;
-    
-  }
-  .service-2{
-    background-color: #1ba29b;
-    
-  }
-  .service-3{
-    background-color: #818181;
-  }
+ /* Navigation Bar  */
+.navbar-brand {
+  color: rgb(255, 255, 255);
+}
 
-  .service{
-    color: white;
-  }
 
-  .center-text{
-    text-align: center;
-  }
+/* Hero section */
+.img-fluid {
+  width: 100%;
+  background-size: cover;
+}
 
-  .copyright-container {
-    text-align: center;
-    background-color: #333;
-    color: #fff;
-  }
+
+/* Service section */
+.service-1 {
+  background-color: #a5d649;
+
+}
+
+.service-2 {
+  background-color: #1ba29b;
+
+}
+
+.service-3 {
+  background-color: #818181;
+}
+
+
+/* Featured service section */
+
+.featured-service-section {
+  background-color: #f3f3f3;
+  padding-bottom: 5%;
+  padding-top: 5%;
+
+}
+.center-text {
+  text-align: center;
+}
+
+
+.card-title {
+  font-size: medium;
+}
+.featured-card{
+  background-color: rgba(0,0,0,0);
+}
+
+
+
+/* Get in touch section */
+
+.jumbotron {
+  background-image: url("https://raw.githubusercontent.com/piru72/Bootstrap-demo/master/img/ddg-bg.jpg");
+  background-size: cover;
+  color: white;
+  margin-bottom: 0%;
+}
+
+.btn-primary {
+  background-color: #a5d649;
+
+}
+
+.text-center {
+  border-width: 0;
+}
+
+/* Copyright section */
+.copyright-container {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  height: 3rem;
+  align-items: center;
+  padding: 1%;
+  overflow: hidden;
+
+}
