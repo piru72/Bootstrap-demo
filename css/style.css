@@ -12,10 +12,29 @@
 
 
 /* Service section */
+
+.service-section{
+  padding: 2%;
+  background-color: #1ba29b;
+}
+
+.service{
+  max-width: 30rem;
+}
+
+
 .service-1 {
   background-color: #a5d649;
 
 }
+
+.center-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 
 .service-2 {
   background-color: #1ba29b;
